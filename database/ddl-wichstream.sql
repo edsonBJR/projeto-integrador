@@ -17,7 +17,6 @@ create table tb_user (
 	img_url TEXT,
 	email_verified boolean,
 	password varchar(250),
-	provider varchar(250),
 	provider_id INTEGER,
 	dt_included TIMESTAMP default CURRENT_TIMESTAMP not null,
 	primary key(user_id)

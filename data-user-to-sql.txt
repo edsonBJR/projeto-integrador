@@ -1,0 +1,574 @@
+[
+	{
+    '4dbabf28-dc4a-11ec-9d64-0242ac120002',
+		'Márcio Benedito Brito',
+		'marcio.benedito.brito@atualmarcenaria.com.br',
+		null,
+		true,
+		'1983-02-01',
+		'Masculino',
+    true,
+		'912D0Hsgme',
+    1,
+		CURRENT_TIMESTAMP
+
+		'4dbabf28-dc4a-11ec-9d64-0242ac120002',
+		'53370230',
+		'Rua Acapurana',
+		'409',
+		'Olinda',
+		'PE',
+		'Brazil'
+	},
+	{
+    'a1417d32-dc4d-11ec-9d64-0242ac120002',
+		'Kauê Bruno da Cunha',
+		'kauebrunodacunha@gmail.com',
+		null,
+		true,
+		'2001-03-08',
+		'Masculino',
+		'A4ct0FS3bZ',
+    3,
+		CURRENT_TIMESTAMP
+
+    'a1417d32-dc4d-11ec-9d64-0242ac120002',
+		'57039210',
+		'Rua Cinco Irmãos',
+		'949',
+		'Maceió',
+		'AL'
+	},
+	{
+    '95fbc932-dc4d-11ec-9d64-0242ac120002',
+		'Betina Carla Tânia Jesus',
+		'betina.carla.jesus@gmail.com',
+		null,
+		true,
+		'1988-04-23',
+		'Feminino',
+		'NmEwxxEykp',
+    3,
+		CURRENT_TIMESTAMP
+
+    '95fbc932-dc4d-11ec-9d64-0242ac120002',
+		'72210261',
+		'Quadra QNM 26 Conjunto A',
+		'148',
+		'Brasília',
+		'DF'
+	},
+	{
+    '8d890f76-dc4d-11ec-9d64-0242ac120002',
+		'Vitória Heloise Joana das Neves',
+		'vitoriaheloisedasneves@trone.com.br',
+		null,
+		true,
+		'10/03/1988-03-10',
+		'Feminino',
+		'7bXFT8A9X9',
+    2,
+		CURRENT_TIMESTAMP
+
+    '8d890f76-dc4d-11ec-9d64-0242ac120002',
+		'57051275',
+		'Travessa Doutor José Maria Correia das Neves',
+		'711',
+		'Maceió',
+		'AL'
+	},
+	{
+    '86b5f1be-dc4d-11ec-9d64-0242ac120002',
+		'Hugo Rafael Pereira',
+		'hugo_rafael_pereira@gmail.com',
+		null,
+		true,
+		'1998-05-20',
+		'Masculino',
+		'MgRQjOtsfL',
+    3,
+		CURRENT_TIMESTAMP
+
+    '86b5f1be-dc4d-11ec-9d64-0242ac120002',
+		'69309185',
+		Avenida dos Bandeirantes',
+		'386',
+		'Boa Vista',
+		'RR'
+	},
+	{
+    '7f6c4610-dc4d-11ec-9d64-0242ac120002',
+		'Mariane Débora da Mota',
+		'mariane.debora.damota@fredericodiniz.com',
+		null,
+		true,
+		'1991-02-22',
+		'Feminino',
+		'4I2g2KZLsC',
+    2,
+		CURRENT_TIMESTAMP
+
+    '7f6c4610-dc4d-11ec-9d64-0242ac120002',
+		'88702130',
+		Rua Francisco da Silva Monteiro',
+		'597',
+		'Tubarão',
+		'SC'
+	},
+	{
+    '77a73188-dc4d-11ec-9d64-0242ac120002',
+		'Maitê Antônia Costa',
+		'maiteantoniacosta@tricoproducts.com.br',
+		'1963-04-15',
+		null,
+		true,
+		'Feminino',
+		'pH8rnhmUgs',
+    2,
+		CURRENT_TIMESTAMP
+
+    '77a73188-dc4d-11ec-9d64-0242ac120002',
+		'59074560',
+		'Rua Professor Coutinho',
+		'744',
+		'Natal',
+		'RN'
+	},
+	{
+    '6f8d7bce-dc4d-11ec-9d64-0242ac120002',
+		'Luzia Nair Bárbara Castro',
+		'luzianaircastro@mx.labinal.com',
+		'1970-03-19',
+		null,
+		true,
+		'Feminino',
+		'2TD31li5wi',
+    2,
+		CURRENT_TIMESTAMP
+
+    '6f8d7bce-dc4d-11ec-9d64-0242ac120002',
+		'64058045',
+		'Rua Realeza',
+		'690',
+		'Teresina',
+		'PI'
+	},
+	{
+    '67c099b2-dc4d-11ec-9d64-0242ac120002',
+		'Clarice Jaqueline Sara da Luz',
+		'claricejaquelinedaluz@ambiente.sp.gov.br',
+		'1998-01-20',
+		null,
+		true,
+		'Feminino',
+		'0cOrcRL9Ob',
+    2,
+		CURRENT_TIMESTAMP
+
+    '67c099b2-dc4d-11ec-9d64-0242ac120002',
+		'31995170',
+		'Rua Assa-peixe',
+		'730',
+		'Belo Horizonte',
+		'MG'
+	},
+	{
+    '5fb6d632-dc4d-11ec-9d64-0242ac120002',
+		'Tomás Henry Alves',
+		'tomas-alves98@gmail.com',
+		null,
+		true,
+		'1998-01-03',
+		'Masculino',
+		'RPpqm2hPPY',
+    3,
+		CURRENT_TIMESTAMP
+
+    '5fb6d632-dc4d-11ec-9d64-0242ac120002',
+		'87023230',
+		'Rua José Cândido',
+		'967',
+		'Maringá',
+		'PR'
+	},
+	{
+    '58d26390-dc4d-11ec-9d64-0242ac120002',
+		'Kaique Matheus Nascimento',
+		'kaique.matheus.nascimento@gmail.com',
+		null,
+		true,
+		'1979-03-06',
+		'Masculino',
+		'ddWLKIjihz',
+    3,
+		CURRENT_TIMESTAMP
+
+    '58d26390-dc4d-11ec-9d64-0242ac120002',
+		'69075737',
+		'Rua Presidente Kennedy',
+		'831',
+		'Manaus',
+		'AM'
+	},
+	{
+    '51f71764-dc4d-11ec-9d64-0242ac120002',
+		'Elza Louise Souza',
+		'elzalouisesouza@transportadoratransdel.com.br',
+		null,
+		true,
+		'1958-02-15',
+		'Feminino',
+		'bLY2Rwehso',
+    2,
+		CURRENT_TIMESTAMP
+
+    '51f71764-dc4d-11ec-9d64-0242ac120002',
+		'65609230',
+		'Rua Paulo VI',
+		'421',
+		'Caxias',
+		'MA'
+	},
+	{
+    '4a95823a-dc4d-11ec-9d64-0242ac120002',
+		'Liz Larissa dos Santos',
+		'lizlarissadossantos@gmail.com',
+		null,
+		true,
+		'1943-04-22',
+		'Feminino',
+		'4XAAtsY25T',
+    3,
+		CURRENT_TIMESTAMP
+
+    '4a95823a-dc4d-11ec-9d64-0242ac120002',
+		'72620122',
+		'Quadra Quadra 300 Conjunto 21',
+		'635',
+		'Brasília',
+		'DF'
+	},
+	{
+    '42fb6a76-dc4d-11ec-9d64-0242ac120002',
+		'Marcela Cristiane Bernardes',
+		'marcelacristianebernardes@hotmail',
+		null,
+		true,
+		'1980-03-26',
+		'Feminino',
+		'52xRQyZYNY',
+    1,
+		CURRENT_TIMESTAMP
+
+    '42fb6a76-dc4d-11ec-9d64-0242ac120002',
+		'04849504',
+		'Viela Nova York',
+		'923',
+		'São Paulo',
+		'SP'
+	},
+	{
+    '3aa0a422-dc4d-11ec-9d64-0242ac120002',
+		'Joaquim Márcio Silveira',
+		'joaquim.marcio.silveira@gmail.com',
+		null,
+		true,
+		'1949-03-06',
+		'Masculino',
+		'PSBoEyWHYb',
+    3,
+		CURRENT_TIMESTAMP
+
+    '3aa0a422-dc4d-11ec-9d64-0242ac120002',
+		'69076474',
+		'Beco Tom Jobim',
+		'509',
+		'Manaus',
+		'AM'
+	},
+	{
+    '32e63abc-dc4d-11ec-9d64-0242ac120002',
+		'Mirella Sônia Alice Fernandes',
+		'mirella_sonia_fernandes@consultorialk.com.br',
+		null,
+		true,
+		'1961-04-12',
+		'Feminino',
+		'zm8XTtA02w',
+    2,
+		CURRENT_TIMESTAMP
+
+    '32e63abc-dc4d-11ec-9d64-0242ac120002',
+		'49000704',
+		'Rua F',
+		'438',
+		'Aracaju',
+		'SE'
+	},
+	{
+    '2b2ae570-dc4d-11ec-9d64-0242ac120002',
+		'Bruno Tomás da Costa',
+		'bruno.tomas.dacosta@gmail.com',
+		null,
+		true,
+		'1968-05-04',
+		'Masculino',
+		'ZqAp3PSaQ7',
+    3,
+		CURRENT_TIMESTAMP
+
+    '2b2ae570-dc4d-11ec-9d64-0242ac120002',
+		'56903050',
+		'Rua Neco Maranhão',
+		'867',
+		'Serra Talhada',
+		'PE'
+	},
+	{
+    '22eae892-dc4d-11ec-9d64-0242ac120002',
+		'Alice Caroline Fernanda de Paula',
+		'alice.caroline.depaula@telefonica.com',
+		null,
+		true,
+		'1950-01-21',
+		'Feminino',
+		'LnpTe1XmTz',
+    2,
+		CURRENT_TIMESTAMP
+
+    '22eae892-dc4d-11ec-9d64-0242ac120002',
+		'44056516',
+		'Rua Itaguaí',
+		'492',
+		'Feira de Santana',
+		'BA'
+	},
+	{
+		'1b2b1438-dc4d-11ec-9d64-0242ac120002',
+		'Rebeca Jaqueline Nogueira',
+		'rebeca-nogueira83@caporal.biz',
+		null,
+		true,
+		'1963-03-04',
+		'Feminino',
+		'pnSPy9dTfq',
+		2,
+		CURRENT_TIMESTAMP
+
+		'1b2b1438-dc4d-11ec-9d64-0242ac120002',
+		'79036564',
+		'Rua João Kussarev',
+		'212',
+		'Campo Grande',
+		'MS'
+	},
+	{
+    '140a4124-dc4d-11ec-9d64-0242ac120002',
+		'Edson Mário Rocha',
+		'edson.mario.rocha@gmail.com',
+		null,
+		true,
+		'2003-03-04',
+		'Masculino',
+		'AXhjDacAHU',
+    3,
+		CURRENT_TIMESTAMP
+
+    '140a4124-dc4d-11ec-9d64-0242ac120002',
+		'69919200',
+		'Rua da Liberdade',
+		'960',
+		'Rio Branco',
+		'AC'
+	},
+	{
+    '0bc046c6-dc4d-11ec-9d64-0242ac120002',
+		'Luiz Gael Nathan Peixoto',
+		'luiz.gael.peixoto@gmail.com',
+		null,
+		true,
+		'1989-02-10',
+		'Masculino',
+		'rjqrYaIpJr',
+    3,
+		CURRENT_TIMESTAMP
+
+    '0bc046c6-dc4d-11ec-9d64-0242ac120002',
+		'72315514',
+		'Quadra QS 513 Conjunto D',
+		'961',
+		'Brasília',
+		'DF'
+	},
+	{
+    '01aac9fe-dc4d-11ec-9d64-0242ac120002',
+		'Vicente Thomas Figueiredo',
+		'vicente_thomas_figueiredo@mucoucah.com.br',
+		null,
+		true,
+		'1949-01-15',
+		'Masculino',
+		'LP1QqEFhsC',
+    2,
+		CURRENT_TIMESTAMP
+
+    '01aac9fe-dc4d-11ec-9d64-0242ac120002',
+		'60347490',
+		'Rua B',
+		'791',
+		'Fortaleza',
+		'CE'
+	},
+	{
+    'f93c65e8-dc4c-11ec-9d64-0242ac120002',
+		'Raimundo Cauê Martin Pinto',
+		'raimundocauepinto@gmail.com',
+		null,
+		true,
+		'1978-04-09',
+		'Masculino',
+		'LUpCCK80Mn',
+    3,
+		CURRENT_TIMESTAMP
+
+    'f93c65e8-dc4c-11ec-9d64-0242ac120002',
+		'29150015',
+		'Rua 31 de Março',
+		'358',
+		'Cariacica',
+		'ES'
+	},
+	{
+    'f19dbeb8-dc4c-11ec-9d64-0242ac120002',
+		'Felipe Bento Vieira',
+		'felipe-vieira96@progetamos.com.br',
+		null,
+		true,
+		'1966-01-04',
+		'Masculino',
+		'KDBbgAgMnR',
+    2,
+		CURRENT_TIMESTAMP
+
+    'f19dbeb8-dc4c-11ec-9d64-0242ac120002',
+		'77016336',
+		'Quadra 601 Sul Avenida LO 15',
+		'130',
+		'Palmas',
+		'TO'
+	},
+	{
+    'e6c619cc-dc4c-11ec-9d64-0242ac120002',
+		'André Murilo da Rocha',
+		'andre_murilo_darocha@netpont.com.br',
+		null,
+		true,
+		'1983-01-21',
+		'Masculino',
+		'hKF7qiYoi0',
+    1,
+		CURRENT_TIMESTAMP
+
+    'e6c619cc-dc4c-11ec-9d64-0242ac120002',
+		'68502380',
+		'Avenida São Paulo',
+		'305',
+		'Marabá',
+		'PA'
+	},
+	{
+    'e1209b5a-dc4c-11ec-9d64-0242ac120002',
+		'Bernardo Nathan Mendes',
+		'bernardo_nathan_mendes@chavao.com.br',
+		null,
+		true,
+		'1970-03-25',
+		'Masculino',
+		'TORN76DXIQ',
+    2,
+		CURRENT_TIMESTAMP
+
+    'e1209b5a-dc4c-11ec-9d64-0242ac120002',
+		'78090646',
+		'Rua Quatro',
+		'793',
+		'Cuiabá',
+		'MT'
+	},
+	{
+    'd650e19e-dc4c-11ec-9d64-0242ac120002',
+		'Joaquim Marcos Vinicius Oliveira',
+		'joaquim_oliveira@gmail.com',
+		null,
+		true,
+		'1996-05-08',
+		'Masculino',
+		'BCq7gHKMgT',
+    3,
+		CURRENT_TIMESTAMP
+
+    'd650e19e-dc4c-11ec-9d64-0242ac120002',
+		'58404290',
+		'Rua João Batista Peixoto',
+		'290',
+		'Campina Grande',
+		'PB'
+	},
+	{
+    'caa7e496-dc4c-11ec-9d64-0242ac120002',
+		'Fábio Bernardo Moura',
+		'fabio-moura72@sestito.com.br',
+		null,
+		true,
+		'1991-03-11',
+		'Masculino',
+		'X7we1aH3O9',
+    2,
+		CURRENT_TIMESTAMP
+
+    'caa7e496-dc4c-11ec-9d64-0242ac120002',
+		'78065272',
+		'Rua Brasil',
+		'139',
+		'Cuiabá',
+		'MT'
+	},
+	{
+    'a878677e-dc4c-11ec-9d64-0242ac120002',
+		'Emanuel Leandro Moraes',
+		'emanuel.leandro.moraes@gmail.com',
+		null,
+		true,
+		'1950-05-04',
+		'Masculino',
+		'LmXjSpF4Mk',
+    3,
+		CURRENT_TIMESTAMP
+
+    'a878677e-dc4c-11ec-9d64-0242ac120002',
+		'88161130',
+		'Servidão Adolfo Marvo Mendes',
+		'711',
+		'Biguaçu',
+		'SC'
+	},
+	{
+    'a87865b2-dc4c-11ec-9d64-0242ac120002',
+		'André Isaac Ribeiro',
+		'andreisaacribeiro@ericsson.com',
+		null,
+		true,
+		'1976-03-17',
+		'Masculino',
+		'bGhQTnyong',
+    2,
+		CURRENT_TIMESTAMP
+
+    'a87865b2-dc4c-11ec-9d64-0242ac120002',
+		'24342820',
+		Rua Nossa Senhora dos Anjos',
+		'611',
+		'Niterói',
+		'RJ'
+	}
+]
