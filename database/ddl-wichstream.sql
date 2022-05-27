@@ -91,6 +91,18 @@ create table tb_comment (
 alter table tb_comment 
 	add user_id varchar(512);
 
+alter table tb_address 
+	add dt_included TIMESTAMP default CURRENT_TIMESTAMP not null;
+
+alter table tb_content 
+	add likes INTEGER;
+
+alter table tb_content 
+	add dislikes INTEGER;
+
+alter table tb_content 
+	add shared INTEGER;
+
 
 -- Foreign Keys
 alter table tb_user 

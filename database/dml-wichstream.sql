@@ -425,4 +425,4 @@ INSERT INTO tb_review (review_id, user_id, content_id, title, description, dt_in
 /* TB_COMMENT */
 INSERT INTO tb_comment (comment_id, review_id, comment, dt_included) VALUES (1, 1, 'Realmente a review esta correta não deixe as crianças na sala', CURRENT_TIMESTAMP);
 INSERT INTO tb_comment (comment_id, review_id, comment, dt_included) VALUES (2, 1, 'Nem é pra tanto, uma cena ou outra eu deixaria meus filhos assistir normalmente', CURRENT_TIMESTAMP);
-INSERT INTO tb_comment (comment_id, review_id, comment, dt_included) VALUES (1, 1, 'Como eu gosto de muita ação também não me importo, super recomendo pra todo mundo', CURRENT_TIMESTAMP);
+INSERT INTO tb_comment (comment_id, review_id, comment, dt_included) VALUES (3, 1, 'Como eu gosto de muita ação também não me importo, super recomendo pra todo mundo', CURRENT_TIMESTAMP);
